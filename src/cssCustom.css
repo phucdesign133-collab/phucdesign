@@ -1,0 +1,11 @@
+  /* Khóa chết màu sắc của thẻ a trong footer, rê chuột vào vẫn giữ nguyên màu #333 thanh mảnh */
+footer a {
+  color: #333 ;
+  text-decoration: none !important;
+  font-weight: normal !important;
+}
+
+footer a:hover {
+  color: #333 !important;
+  text-decoration: none !important;
+}
